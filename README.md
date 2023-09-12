@@ -8,5 +8,5 @@ Altough the embedded python code in the application can create the same function
 <h2>Result example:</h2> 
 
 <img src="asset/result1.jpg" alt="result1">
-
+NB: in the above image, each line is a run (ie, running the model with configuration set of X) and its color is showing the loss
 <img src="asset/result2.jpg" alt="result2">

@@ -6,7 +6,7 @@ Weights and Biases (wandb) is a platform for machine learning experiment trackin
 
 ## Why to use wandb?
 
-Experiment Tracking: Wandb allows you to log and track various aspects of your machine learning experiments, including hyperparameters, metrics, and visualizations. This makes it easier to understand how different settings impact your model's performance and helps in fine-tuning your models.
+<h3> Experiment Tracking:</h3> Wandb allows you to log and track various aspects of your machine learning experiments, including hyperparameters, metrics, and visualizations. This makes it easier to understand how different settings impact your model's performance and helps in fine-tuning your models.
 
 Visualization and Reporting: You can use wandb to visualize your training progress in real-time. 
 

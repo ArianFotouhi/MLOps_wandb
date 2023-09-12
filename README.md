@@ -7,4 +7,6 @@ Altough the embedded python code in the application can create the same function
 <hr>
 <h2>Result example:</h2> 
 
-<img src="asset/result1.jpg" alt="result1" width="400">
+<img src="asset/result1.jpg" alt="result1" height="600">
+
+<img src="asset/result2.jpg" alt="result2" height="600">
